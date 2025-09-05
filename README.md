@@ -6,7 +6,7 @@
 -  I love Music and I'm Percussionist
 ## How to reach me:
   -  LinkedIn   : https://www.linkedin.com/in/piyush-vedwal-75447a288/
-  -  HackerRank : https://www.hackerrank.com/profile/piyushvedwal2
+  -  HackerRank : https://www.hackerrank.com/profile/piyushvedwal05j1
   -  LeetCode   : https://leetcode.com/u/PiyushVedwal/
 
 
