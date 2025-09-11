@@ -8,6 +8,7 @@
   -  LinkedIn   : https://www.linkedin.com/in/piyush-vedwal-75447a288/
   -  HackerRank : https://www.hackerrank.com/profile/piyushvedwal05j1
   -  LeetCode   : https://leetcode.com/u/PiyushVedwal/
+  -  porfolio   : https://portfolio-piyushvedwal.netlify.app/
 
 
 ## About me:
@@ -23,12 +24,4 @@
 - CSS
 - JavaScript
 
-# Achievements:
-
-- ##  HackerRank:
-
-  - C : ****
-  - C++ : **
-  - JAVA : ****
-  - Python : ***
  
