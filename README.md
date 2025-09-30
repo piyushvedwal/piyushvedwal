@@ -1,8 +1,8 @@
 # Hi there 👋
 
 -  I'm Piyush Vedwal 
--  I’m currently learning JAVA, Python, Web Development, AIML...
--  I’m looking to collaborate on Projects in JAVA, C, Python, HTML, CSS, JS...
+-  I’m currently learning JAVA, Python, Web Development, AI/ML...
+-  I’m looking to collaborate on Projects in C, JAVA, PYTHON, HTML, CSS, JS...
 -  I love Music and I'm Percussionist
 ## How to reach me:
   -  LinkedIn   : https://www.linkedin.com/in/piyush-vedwal-75447a288/
@@ -12,7 +12,7 @@
 
 
 ## About me:
-- Arificial Intelligence and Machine Learning lover
+- Artificial Intelligence and Machine Learning Enthusiast
 - Coder And Developer
 - Tech Try-er
 
