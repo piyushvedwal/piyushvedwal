@@ -37,6 +37,11 @@ Built with [Ganesh Khetawat](https://github.com/gkganesh12).
 
 `Python` `PyTorch` `Opacus` `CTGAN` `scikit-learn` `Streamlit` &nbsp;·&nbsp; **[▶ Live demo](https://piyush-synthetic-data-generator.streamlit.app/)**
 
+### 🗓️ [SAMS: Student Attendance Management System](https://github.com/piyushvedwal/SAMS-Student-Attendance-Management-System)
+A complete attendance platform built from my own software requirements specification. Admins, teachers, students and parents each get their own console: marking by roster or student check-in code, calendar history, CSV / Excel / PDF reports, and alerts for low attendance and unusual patterns such as possible proxy check-ins. Covered by 39 automated tests that run on every push.
+
+`Python` `Streamlit` `SQLite` `pandas` `Altair` `pytest` &nbsp;·&nbsp; **[▶ Live demo](https://sams-piyush-vedwal.streamlit.app/)**
+
 ### 🌐 [Interactive Portfolio](https://github.com/piyushvedwal/piyush-portfolio)
 Editorial-style personal site with a precision-reticle cursor, a dot-grid background that reacts to the cursor, and live canvas visuals for each project.
 
@@ -64,6 +69,8 @@ Editorial-style personal site with a precision-reticle cursor, a dot-grid backgr
 **Tools**<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 
 ---
